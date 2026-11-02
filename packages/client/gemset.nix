@@ -78,10 +78,10 @@
     platforms = [ ];
     source = {
       remotes = [ "https://rubygems.org" ];
-      sha256 = "0724q26k3q2wswg1mwwxhfl1zfgx7363ml1knj8ykgbxhfmwcxh9";
+      sha256 = "1j8cbkf9z9fh324ym64q4y28nxdxrzmzkzpf97g044vqnk1g34b0";
       type = "gem";
     };
-    version = "0.7.20261007";
+    version = "0.7.20261031";
   };
   drb = {
     groups = [ "default" ];
